@@ -1,0 +1,85 @@
+.container{
+    background-color: white;
+    min-width: 250px;
+}
+.subtitulo{
+    text-align: center;
+    color: red;
+    padding: 30px;
+}    
+.menu{
+    float: right;
+    padding: 25px;
+    margin: 15px;
+}
+.menu li{
+    display: inline-block;
+}
+.menu a{
+    color: red;
+    text-decoration: none;
+    padding: 10px;
+}
+.menu a:hover{
+    background-color: black;
+}
+.col{
+    width: 300px;
+    display: inline-block;
+
+}
+.row{
+    text-align: center;
+    padding: 10px;
+}
+.colone{
+    width: 300px;
+    display: inline-block;
+
+}
+.rowone{
+    text-align:center;
+    padding: 10px;
+      
+}
+.coltwo{
+    width: 300px;
+    display: inline-block;
+
+}
+.rowtwo{
+    text-align:center;
+    padding: 10px;
+
+}
+.subtitulo{
+    text-align: center;
+}
+.col h2{
+    color: red;
+
+}
+.colone h2{
+    color: red;
+}
+.coltwo h2{
+    color: red;
+}
+.col p{
+    color: black;
+}
+.colone p{
+    color: black;
+}
+.coltwo p{
+    color: black;
+}
+.footer a{
+    color: red;
+    text-decoration: none;
+    margin: 28px;
+}   
+.footer span{
+    float: right;
+    margin: top 5px;
+}
